@@ -2,7 +2,7 @@
 
 ## prepare-commit-msg
 
-#### Adds a precommit message to the git commit.
+#### Add a precommit message to the git commit.
 
 Create a file **_prepare-commit-msg_** in the .git/hooks folder of the repo. And after you create it you need to make that file executable. To do so, run the command
  
